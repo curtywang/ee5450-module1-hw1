@@ -12,4 +12,8 @@ provides to provide a web-based interface to play Blackjack with!
 
 # HTTP Paths and Responses
 
+```
+GET /
+returns: {'message': 'Welcome to Blackjack!'}
+```
 
