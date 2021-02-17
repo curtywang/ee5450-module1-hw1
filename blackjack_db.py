@@ -1,7 +1,7 @@
 from uuid import uuid4
 from typing import List, Tuple, Dict, Union
 from fastapi import HTTPException, status
-from blackjack.blackjack import Blackjack
+from .blackjack.blackjack import Blackjack
 import asyncio
 
 
